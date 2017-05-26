@@ -1,0 +1,8 @@
+execute the following in a pharo playground.
+
+Gofer it
+   smalltalkhubUser: 'SvenVanCaekenberghe' project: 'Neo';
+   configurationOf: 'NeoJSON';
+   loadStable.
+
+
